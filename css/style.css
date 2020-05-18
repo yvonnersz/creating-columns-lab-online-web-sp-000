@@ -50,7 +50,7 @@ img:hover {
 
 body div {
   display: grid;
-  grid-template-columns: 1fr;
+  grid-template-columns: 0.5fr 0.5fr;
 }
 
 /* create your tile classes! we recommend .small .med .large */
