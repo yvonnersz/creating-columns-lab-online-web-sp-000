@@ -50,7 +50,7 @@ img:hover {
 
 body .container {
   display: flex;
-  flex: 1;
+  flex: 3;
 }
 
 /* create your tile classes! we recommend .small .med .large */
