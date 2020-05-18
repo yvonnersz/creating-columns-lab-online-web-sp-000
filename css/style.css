@@ -50,7 +50,7 @@ img:hover {
 
 <div class="column">
   .container amiable {
-    grid-column: 1/3'
+    grid-column: 1/3;
     grid-row: 1/3;
   }
 </div>
