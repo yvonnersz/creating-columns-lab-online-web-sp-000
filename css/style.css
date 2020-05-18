@@ -52,7 +52,7 @@ body div {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  grid-gap: 0.5fr;
+  grid-gap: 0.1fr;
 }
 
 /* create your tile classes! we recommend .small .med .large */
