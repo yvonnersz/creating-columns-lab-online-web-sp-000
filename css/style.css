@@ -49,7 +49,10 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
 <div class="column">
-  <div class=""
+  <div class="container amiable"></div>
+  <div class="container indifferent"></div>
+  <div class="container dubious"></div>
+</div>
 
 /* create your tile classes! we recommend .small .med .large */
 
