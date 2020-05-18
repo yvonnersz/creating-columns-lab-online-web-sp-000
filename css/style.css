@@ -49,7 +49,7 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
 body .container amiable {
-  grid-row: 1/3;
+  display: none;
 }
 
 /* create your tile classes! we recommend .small .med .large */
